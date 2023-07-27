@@ -4,7 +4,7 @@ Hi 👋 My name is Gökşen Ayar
 Industrial Engineer & Software Developer
 ----------------------------------------
 
-I have been learning to software for 4-5 months. I started with Javascript. I continued with solidity because I was interested in web3. I am currently learning Rust and Anchor for the Solana ecosystem.
+I have been learning to software for 9-10 months. I started learning with Solidity because I was interested in Web3. I learned Rust and Anchor for the Solana ecosystem. Then I learned HTML and CSS. Nowadays, I am learning Javascript.
 
 * 🌍  I'm based in İstanbul
 * ✉️  You can contact me at [goksenns@gmail.com](mailto:goksenns@gmail.com)
